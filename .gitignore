@@ -1,4 +1,10 @@
-﻿.venv/
+﻿core.Microsoft*
+core.mongo*
+core.python*
+env.py
 __pycache__/
 *.py[cod]
-db.sqlite3
+node_modules/
+.github/
+cloudinary_python.txt
+.venv
