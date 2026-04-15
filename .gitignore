@@ -11,4 +11,3 @@ cloudinary_python.txt
 staticfiles/
 blog/fixtures/*
 !blog/fixtures/posts.json
-.env
